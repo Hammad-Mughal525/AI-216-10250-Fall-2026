@@ -2,8 +2,8 @@
 
 ## Student
 
-- Name: Rida Khan
-- Student ID: 10603
+- Name: Muhammad Hammad Mughal
+- Student ID: 10250
 
 ## About This Repository
 
